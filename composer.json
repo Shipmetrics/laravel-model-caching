@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "genealabs/laravel-pivot-events": "^10.0",
+        "genealabs/laravel-pivot-events": "dev-master",
         "laravel/framework": "^9.0|^10.0"
     },
     "require-dev": {
