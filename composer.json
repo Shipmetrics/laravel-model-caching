@@ -12,12 +12,16 @@
         {
             "type": "composer",
             "url": "https://nova.laravel.com"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/joshuadwire/laravel-pivot-events"
         }
     ],
     "require": {
         "php": "^8.0",
-        "genealabs/laravel-pivot-events": "^9.0",
-        "laravel/framework": "^10.0"
+        "genealabs/laravel-pivot-events": "^10.0",
+        "laravel/framework": "^9.0|^10.0"
     },
     "require-dev": {
         "doctrine/dbal": "^3.3",
